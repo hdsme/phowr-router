@@ -1,0 +1,9 @@
+{
+    "Routes": [
+        {
+            "UpstreamPathTemplate": "/hook/{everything}",
+            "UpstreamHttpMethod": ["POST","GET","PUT","DELETE","OPTIONS" ],
+            "DownstreamPathTemplate": "apps.hook.hook2.file"
+        }
+    ]
+}
