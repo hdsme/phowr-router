@@ -22,7 +22,7 @@ readme_filename = os.path.join(this_dir, 'README.md')
 requirements_filename = os.path.join(this_dir, 'requirements.txt')
 
 PACKAGE_NAME = 'phowr-router'
-PACKAGE_VERSION = '1.0.0'
+PACKAGE_VERSION = '1.0.1'
 PACKAGE_AUTHOR = 'Hao Hoang'
 PACKAGE_AUTHOR_EMAIL = 'haohoangofficial@gmail.com'
 PACKAGE_URL = 'https://github.com/hdsme/phowr-router'
